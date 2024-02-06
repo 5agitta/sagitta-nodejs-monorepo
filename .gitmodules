@@ -1,3 +1,6 @@
 [submodule "apps/service-template-e2e"]
 	path = apps/service-template-e2e
 	url = git@github.com:5agitta/service-template-e2e-nodejs.git
+[submodule "apps/service-template"]
+	path = apps/service-template
+	url = git@github.com:5agitta/service-template-nodejs.git
